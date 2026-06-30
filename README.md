@@ -88,15 +88,6 @@ A modern booking platform built with scalability in mind.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dagisolo10&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagisolo10&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
 ## Contribution Graph
 
 <p align="center">
